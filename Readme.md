@@ -43,4 +43,7 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## URL to application
 
+postgresql://tech_blog_cgpo_user:mC3yygWQKuHiepct0h2NunB1lTMQhSeO@dpg-crb3intds78s73dc5pi0-a/tech_blog_cgpo
+
 ## GITHUB URL
+https://github.com/Sashab2400/tech-blog
